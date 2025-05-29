@@ -2,11 +2,12 @@
 A prototype device implementing hedonistic calulator
 
 # About the hedonistic calulus
-The hedonistic calculus 
+Utilitarianism is the moral theory that an action is morally right if and only if it is productive of the most utility (happiness, pleasure) for the greatest number of persons.  Bentham believed the right act is the act which of all those open to the agent, will actually or probably produce the greatest amount of pleasure in the world-at-large. Pleasure and pain form the basis of the standard of right and wrong.
+ 
+Intensity    -- How intense is the pleasure or pain?  
+Propinquity  -- How far off in the future is the pleasure or pain?  
+Extent       -- How many persons are affected by the pleasure?  
+Certainty    -- What is the probability that the pleasure or pain will occur?  
+Purity       -- What is the probability that the pain will lead to other pains?  
 
-# About the schematic
-![PhiloArduino-wiring](https://github.com/user-attachments/assets/6eb027fd-052c-47ad-99d3-07ef67668162)
-
-# How it looks like
-![PhiloArduino-front](https://github.com/user-attachments/assets/9498a85f-82aa-4e8d-aa94-0fdbc0d85744)
-![PhiloArduino-back](https://github.com/user-attachments/assets/a5a7b3b9-9e29-4944-8dd3-91dcc5851c29)
+source of the description: https://philosophy.lander.edu/ethics/calculus.html
