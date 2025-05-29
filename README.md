@@ -2,7 +2,7 @@
 A prototype device implementing hedonistic calulator using an Arduino, a display and buttons.
  
 # About PhiloArduino
-In philosophy class, we had a thought experiment using Benthams when discussing utilitarism. This way, I learned about the hedonistic calulus.
+In philosophy class, we had a thought experiment using Benthams Hedonistic Calculus when discussing utilitarism. This way, I learned about the hedonistic calulus.
 As I started with programming Arduino to that time, I challenged myself to implement it using an Arduino.
 
 # About the hedonistic calulus
